@@ -1,12 +1,8 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
-        
   - title: "Blog Posts"
     url: /year-archive/
-    
     
   - title: "GitHub"
     url: https://github.com/zxkmm

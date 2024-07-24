@@ -24,8 +24,9 @@ About | 关于
 
 My open-source work | 开源作品
 ------
+
 | English | 中文 | Tech Stack | Languages |
-| --- | --- | --- | --- | 
+| - | - | - | - | 
 | The very first OOK 2262/1527 special decode algorythm with high robustness and stable| 第一个具有高鲁棒性和稳定性的OOK 2262/1527解码算法 | Algorithm |C++|
 | Multiple popular SiYuan plugins | 多个流行的思源笔记插件 | Node/Svelte | TypeScript/CSS/SCSS
 | HackRF-PortaPack-Mayhem SDR (collaboration) | HackRF-PortaPack-Mayhem无线电工具（合作） | ChibiOS / RTOS / Cyber security / Wireless security | C/C++ |
